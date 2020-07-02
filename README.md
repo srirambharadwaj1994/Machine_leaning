@@ -1,2 +1,2 @@
-# Machine_leaning
+# Machine_learning
 KNNmodel
